@@ -45,6 +45,9 @@ Finalmente, el proceso de enrutamiento se puede realizar de dos maneras, ya sea 
 
 ##### Link del video explicatorio:
 https://youtu.be/rmbGNAsxYTc
+##### Archivo .txt con las configuraciones:
+[Configs_de_Lab_1.txt](https://github.com/Hdiaz0224/Lab1/files/10772414/Configs_de_Lab_1.txt)
+
 ##### Referencias:
 Cisco. "Configuring IP Addressing and IP Services Features". Cisco. https://www.cisco.com/c/en/us/td/docs/routers/access/800M/software/800MSCG/IP_IP_Services.html?bookSearch=true (accedido el 16 de febrero de 2023).
 
