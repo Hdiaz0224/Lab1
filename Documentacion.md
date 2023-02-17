@@ -25,14 +25,15 @@ Frente a la configuración del DMZ contestamos unas preguntas para guiarnos entr
 
 La configuración se resume en qué hay dos servidores los cuales uno es para el servidor web, dónde se está alojando la página y la otra el DNS dónde se está alojando la direccion IP de la misma página web, el ISP_BOG se está encargando de ser parte de la comunicación de routers de la OSPF por el lado izquierdo de la topología. Asimismo, El servidor DNS es el encargado de almacenar la dirección IP del servidor web y proporcionar esta información a los clientes que desean acceder al sitio web. Los clientes envían una solicitud de DNS al servidor DNS, que responde con la dirección IP del servidor web correspondiente.
 
-(añadir imagen)
+![image](https://user-images.githubusercontent.com/93561095/219817717-180130c2-2006-472b-b321-1de625808c25.png)
 
 ##### Intranet MAD:
 En esta parte en teoría era la misma que el Intranet BOG ya que nos encontrábamos con una red compuesta por switches y pc’s. Por lo que la configuración era la de configurar los switches de manera normal sin embargo aquí los pc se configuraron para que tuvieran direcciones estáticas. Todo esto con el fin de que se pudiera conectar sin problema a los servidores que habíamos configurado antes y que se observaba que se ejecutaban de manera correcta.
 
 ![image](https://user-images.githubusercontent.com/93561095/219804379-9cd523e3-b028-4b48-b5b8-b685b8b489b7.png)
 
-(añadir imagen)
+![image](https://user-images.githubusercontent.com/93561095/219817706-ddf558f3-64a6-4f79-816b-84f3473b4d4a.png)
+
 
 ##### Analisis:
 
