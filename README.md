@@ -43,6 +43,8 @@ En el desarrollo del laboratorio nos encontramos con diversos retos entre estos 
 Una conclusión a la que llegamos mientras realizábamos el laboratorio fue el como enrutar paquetes entre la red y el internet y es de la siguiente manera Cuando un paquete sale de una red empresarial y está destinado a Internet, se reenvía a una puerta de enlace predeterminada. La puerta de enlace predeterminada es típicamente un router que está conectado a Internet y actúa como el punto de entrada para todos los paquetes que salen de la red empresarial. La puerta de enlace predeterminada realiza las mismas funciones de enrutamiento que cualquier otro router y reenvía el paquete al siguiente salto en su camino hacia su destino final. 
 Finalmente, el proceso de enrutamiento se puede realizar de dos maneras, ya sea mediante rutas estáticas o rutas dinámicas. Por un lado, las rutas estáticas son manuales y deben ser actualizadas del mismo modo, mientras que las rutas dinámicas se actualizan en tiempo real y son más capaces de escoger un mejor camino para enviar los paquetes ya que tienen en cuenta muchos más criterios. Un ejemplo de protocolos de enrutamiento es: RIP, EIGRP y OSPF.
 
+##### Link del video explicatorio:
+`<link>`: https://youtu.be/rmbGNAsxYTc
 ##### Referencias:
 Cisco. "Configuring IP Addressing and IP Services Features". Cisco. https://www.cisco.com/c/en/us/td/docs/routers/access/800M/software/800MSCG/IP_IP_Services.html?bookSearch=true (accedido el 16 de febrero de 2023).
 
