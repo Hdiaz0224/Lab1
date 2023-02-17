@@ -16,7 +16,7 @@ La configuración del protocolo OSPF se llevó a cabo de la siguiente manera: pr
 
 Además, utilizamos el protocolo OSPF porque uno de sus objetivos principales es mejorar la eficiencia del enrutamiento en una red, permitiendo que los dispositivos seleccionen la ruta más rápida y fiable entre ellos. Para lograr esto, OSPF utiliza un algoritmo de enrutamiento basado en estado de enlace (LSA, Link State Algorithm) que permite a los dispositivos intercambiar información de topología de red actualizada, y calcular la ruta más corta y óptima entre dos puntos en función de esta información.
 
-(añadir imagen)
+![image](https://user-images.githubusercontent.com/93561095/219804218-84c5a7e6-973c-4b86-bb42-264ce4958be9.png)
 
 ##### DMZ e INTRANET BOG:
 Frente a la configuración del DMZ contestamos unas preguntas para guiarnos entre estas estaban: ¿Cuántos subnets necesitamos?, ¿Cuántos hosts se necesitan?, ¿ Que dispositivos/interfaces hacen parte de la subred?, ¿ Que partes de la red son públicas o privadas?. Después de esto, se realizan las configuraciones básicas a los diferentes switches que se encuentran entre el DMZ y la intranet BOG. Asimismo realizamos una tabla donde se evidencia el dispositivo, interfaz, Direccion IP, WildCard, Mascara de subred y puerta de enlace.
