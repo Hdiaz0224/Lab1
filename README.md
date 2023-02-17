@@ -44,7 +44,7 @@ Una conclusión a la que llegamos mientras realizábamos el laboratorio fue el c
 Finalmente, el proceso de enrutamiento se puede realizar de dos maneras, ya sea mediante rutas estáticas o rutas dinámicas. Por un lado, las rutas estáticas son manuales y deben ser actualizadas del mismo modo, mientras que las rutas dinámicas se actualizan en tiempo real y son más capaces de escoger un mejor camino para enviar los paquetes ya que tienen en cuenta muchos más criterios. Un ejemplo de protocolos de enrutamiento es: RIP, EIGRP y OSPF.
 
 ##### Link del video explicatorio:
-`<link>`: https://youtu.be/rmbGNAsxYTc
+`<Aqui se encuentra el video >`: <https://youtu.be/rmbGNAsxYTc>
 ##### Referencias:
 Cisco. "Configuring IP Addressing and IP Services Features". Cisco. https://www.cisco.com/c/en/us/td/docs/routers/access/800M/software/800MSCG/IP_IP_Services.html?bookSearch=true (accedido el 16 de febrero de 2023).
 
