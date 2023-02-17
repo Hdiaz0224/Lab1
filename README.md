@@ -21,7 +21,7 @@ Además, utilizamos el protocolo OSPF porque uno de sus objetivos principales es
 ##### DMZ e INTRANET BOG:
 Frente a la configuración del DMZ contestamos unas preguntas para guiarnos entre estas estaban: ¿Cuántos subnets necesitamos?, ¿Cuántos hosts se necesitan?, ¿ Que dispositivos/interfaces hacen parte de la subred?, ¿ Que partes de la red son públicas o privadas?. Después de esto, se realizan las configuraciones básicas a los diferentes switches que se encuentran entre el DMZ y la intranet BOG. Asimismo realizamos una tabla donde se evidencia el dispositivo, interfaz, Direccion IP, WildCard, Mascara de subred y puerta de enlace.
 
-(añadir tabla)
+![image](https://user-images.githubusercontent.com/93561095/219804323-ccf55535-a646-4eb8-9fd9-dd2230c3b635.png)
 
 La configuración se resume en qué hay dos servidores los cuales uno es para el servidor web, dónde se está alojando la página y la otra el DNS dónde se está alojando la direccion IP de la misma página web, el ISP_BOG se está encargando de ser parte de la comunicación de routers de la OSPF por el lado izquierdo de la topología. Asimismo, El servidor DNS es el encargado de almacenar la dirección IP del servidor web y proporcionar esta información a los clientes que desean acceder al sitio web. Los clientes envían una solicitud de DNS al servidor DNS, que responde con la dirección IP del servidor web correspondiente.
 
@@ -30,7 +30,7 @@ La configuración se resume en qué hay dos servidores los cuales uno es para el
 ##### Intranet MAD:
 En esta parte en teoría era la misma que el Intranet BOG ya que nos encontrábamos con una red compuesta por switches y pc’s. Por lo que la configuración era la de configurar los switches de manera normal sin embargo aquí los pc se configuraron para que tuvieran direcciones estáticas. Todo esto con el fin de que se pudiera conectar sin problema a los servidores que habíamos configurado antes y que se observaba que se ejecutaban de manera correcta.
 
-(añadir tabla)
+![image](https://user-images.githubusercontent.com/93561095/219804379-9cd523e3-b028-4b48-b5b8-b685b8b489b7.png)
 
 (añadir imagen)
 
