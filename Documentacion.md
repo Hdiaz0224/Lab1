@@ -3,7 +3,7 @@
 
 El presente documento presentará el desarrollo del laboratorio 1 de la asignatura Administración de redes, cuyo objetivo es construir redes LAN-WAN basadas en IPv4 utilizando subnetting-VLSM, Reconocer y  configurar el  protocolo  de  enrutamiento EIGRP/OSPF en  las  interfaces  requeridas  para  el enrutamiento de paquetes IP dentro las redes WAN. Así como simular y analizar el flujo de datos a través de la red empresarial.
 
-#### Procedimiento:
+##### Procedimiento:
 
 En esta parte del procedimiento vamos a explicarlo en 4 diferentes partes y es el como organizamos la topología: Internet, DMZ, intranet BOG e Intranet MAD.
 
