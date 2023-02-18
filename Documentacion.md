@@ -37,6 +37,15 @@ En esta parte en teoría era la misma que el Intranet BOG ya que nos encontrába
 
 ##### Analisis:
 
+![image](https://user-images.githubusercontent.com/93561095/219819206-f9f41e99-f247-470c-adb6-fc93a2dc4fb8.png)
+![image](https://user-images.githubusercontent.com/93561095/219819213-3d218b39-a89d-4a8f-9c0a-c80a88553b68.png)
+![image](https://user-images.githubusercontent.com/93561095/219819221-150771d6-0470-4cd6-bdf8-ae92c7c98677.png)
+![image](https://user-images.githubusercontent.com/93561095/219819228-1c9129b5-860e-44d3-83d6-5e3201dc58f0.png)
+![image](https://user-images.githubusercontent.com/93561095/219819235-e3bec1e8-470d-4ea8-8768-eafdcd8c38b0.png)
+![image](https://user-images.githubusercontent.com/93561095/219819242-82407be8-e9ef-4e5e-8792-4dcfd675827f.png)
+![image](https://user-images.githubusercontent.com/93561095/219819247-8590b54b-a977-423a-8125-13b89963c2e0.png)
+
+
 ##### Retos:
 En el desarrollo del laboratorio nos encontramos con diversos retos entre estos el que mas se nos complico fue el de especificar el OSPF debido a que era un protocolo nuevo y que no sabíamos implementar. Esto nos conllevo a una búsqueda de videos y documentos para saber el como implementarlo de manera correcta debido a que había puntos donde lo implementábamos, pero ocurría un error en la conexión.
 
